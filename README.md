@@ -1,3 +1,2 @@
-# SpaceShooterTemplate
-
-Developed with Unreal Engine 4
+# spaceshooter
+Space Shooter UE4
